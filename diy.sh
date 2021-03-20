@@ -14,17 +14,21 @@ author_list="qq34347476 ZCY01 i-chenzhe"
 # 例如：https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js
 # 1.从作者库中随意挑选一个脚本地址，每个作者的地址添加一个即可，无须重复添加
 # 2.将地址最后的 “脚本名称+后缀” 剪切到下一个变量里（my_scripts_list_xxx）
-# scripts_base_url_1=https://gitee.com/qq34347476/quantumult-x/raw/master/
-scripts_base_url_1=https://raw.githubusercontent.com/qq34347476/js_script/master/scripts/
+scripts_base_url_1=https://raw.githubusercontent.com/i-chenzhe/qx/main/
 scripts_base_url_2=https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/
-scripts_base_url_3=https://raw.githubusercontent.com/i-chenzhe/qx/main/
-
+scripts_base_url_3=https://raw.githubusercontent.com/whyour/hundun/master/quanx/
+scripts_base_url_4=https://raw.githubusercontent.com/moposmall/Script/main/Me/
+scripts_base_url_5=https://raw.githubusercontent.com/qq34347476/js_script/master/scripts/
+scripts_base_url_6=https://raw.githubusercontent.com/799953468/Quantumult-X/master/script/JD/
 
 ##############################作者脚本名称（必填）##############################
 # 将相应作者的脚本填写到以下变量中
-my_scripts_list_1="format_share_jd_code.js jd_try.js jd_joy_run.js"
-my_scripts_list_2="jd_priceProtect.js"
-my_scripts_list_3="jd_getFanslove.js jd_fanslove.js jd_gjmh.js jd_entertainment.js jd_shake.js jd_shakeBean.js jd_xmf.js z_superDay.js"
+my_scripts_list_1="jd_entertainment.js jd_fanslove.js jd_getFanslove.js jd_gjmh.js jd_shake.js jd_shakeBean.js z_marketLottery.js z_superDay.js z_unionPoster.js z_wish.js"
+my_scripts_list_2="jd_priceProtect.js jd_try.js"
+my_scripts_list_3="jd_zjd.js jx_factory.js jx_factory_component.js jx_nc.js"
+my_scripts_list_4="jx_cfd.js"
+my_scripts_list_5="nevinee_format.js"
+my_scripts_list_6="jd_paopao.js"
 
 
 ##############################随机函数##########################################
