@@ -8,7 +8,7 @@ done
 
 ##############################作者昵称（必填）##############################
 # 使用空格隔开
-author_list="qq34347476 ZCY01 i-chenzhe"
+author_list="i-chenzhe ZCY01 whyour moposmall qq34347476 799953468"
 
 ##############################作者脚本地址URL（必填）##############################
 # 例如：https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js
